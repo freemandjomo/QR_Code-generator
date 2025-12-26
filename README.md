@@ -169,7 +169,7 @@ This project uses the free [QR Server API](https://goqr.me/api/):
 ![QR_Code Generator Interface](https://github.com/freemandjomo/Meme-Generator/blob/master/Screenshot%202025-12-10%20134809.png)
 
 ### Customization Options
-![Customization Panel](https://github.com/freemandjomo/Meme-Generator/blob/master/Screenshot%202025-11-09%20125442.png)
+![Customization Panel](https://github.com/freemandjomo/QR_Code-generator/blob/main/Screenshot%202025-12-26%20214112.png)
 
 ---
 
