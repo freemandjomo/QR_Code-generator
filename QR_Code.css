@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(16, 162, 219) ;
+    
+}
+.wrapper{
+    text-align : center ;
+    margin-top : 375px;
+    background-color: white;
+    width : 423px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    transition : height 0.2s ease ;
+}
+.wrapper.active {
+    height: 450px;
+}
+#CodeBtn{
+    margin-top: 15px;
+    padding : 11px 65px;
+    background-color: rgb(16, 162, 219) ;
+    color: white;
+    font-size: 15px;
+    border : none ;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: -120px;
+}
+#CodeBtn:hover{
+ background-color: rgb(6, 120, 165) ;   
+}
+#CodeBtn:active{
+    transform: scale(0.98); 
+      
+}
+#input{
+  padding : 10px 35px ;
+  text-align: left; 
+  font-size: 15px ;
+  margin-left: -120px; 
+  border-radius: 5px ; 
+}
+#Title{
+  padding-top: 16px;
+  margin-right: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+#Subtitle{
+ font-family: Arial, Helvetica, sans-serif;
+ margin-right: 60px;   
+}
+ img{
+    width: 175px;
+    height: 175px;
+    text-align : center ;
+ }
+ .ImageContainer{
+    display: flex ;
+    justify-content : center ;
+    opacity: 0;
+    pointer-events: none;
+    text-align : center ;
+    height: auto ;
+    width : auto;  
+    margin-top : 50px;
+    margin-left: auto ;
+    margin-right: auto ;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    border-color: black;
+    transition: opacity 0.5s ease ;
+ }
+    
+ .form{
+    margin-left: auto; 
+    margin-right: auto ;
+ }
+ .wrapper.active .ImageContainer{
+    opacity: 1;
+    pointer-events: auto ;
+    transition: opacity 0.5s 0.05s ease ;
+ }
