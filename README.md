@@ -163,6 +163,16 @@ This project uses the free [QR Server API](https://goqr.me/api/):
 - ✅ Edge (Latest)
 - ✅ Opera (Latest)
 
+## 📸 Screenshots
+
+### Main Interface
+![QR_Code Generator Interface](https://github.com/freemandjomo/Meme-Generator/blob/master/Screenshot%202025-12-10%20134809.png)
+
+### Customization Options
+![Customization Panel](https://github.com/freemandjomo/Meme-Generator/blob/master/Screenshot%202025-11-09%20125442.png)
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
