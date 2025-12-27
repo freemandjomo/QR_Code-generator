@@ -85,7 +85,7 @@ No build process or dependencies required! 🎉
 4. **Clear**
    - Delete the input text to hide the QR code automatically
 
-## 💻 Code Structure
+##  Code Structure
 
 ```
 qr-code-generator/
