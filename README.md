@@ -34,7 +34,7 @@
 - Generate event tickets
 - Create product labels
 
-## 🖼️ Preview
+##  Preview
 
 The application features a centered card-based design with:
 - **Input field** for text/URL entry
