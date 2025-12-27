@@ -51,7 +51,7 @@ The application features a centered card-based design with:
 | **JavaScript (ES6)** | Core functionality and DOM manipulation |
 | **QR Server API** | QR code generation backend |
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
