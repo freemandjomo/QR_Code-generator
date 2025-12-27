@@ -25,7 +25,7 @@
 - 📱 **Responsive** - Works perfectly on all devices
 - 🔄 **Auto-Clear** - QR code disappears when input is cleared
 
-## 🎯 Use Cases
+##  Use Cases
 
 - Share website links quickly
 - Generate contactless information cards
