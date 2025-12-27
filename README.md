@@ -69,7 +69,7 @@ The application features a centered card-based design with:
 
 No build process or dependencies required! 🎉
 
-## 🚀 Usage
+##  Usage
 
 1. **Enter your content**
    - Type any text or paste a URL into the input field
