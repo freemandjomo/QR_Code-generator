@@ -117,7 +117,7 @@ qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=${qrv
 // Change 175x175 to your preferred size (e.g., 250x250)
 ```
 
-## 🔧 Technical Details
+##  Technical Details
 
 ### Key Features Implementation
 
