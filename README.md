@@ -15,7 +15,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🚀 **Instant Generation** - Create QR codes in real-time with a single click
 - 🎨 **Modern UI** - Clean, responsive design with smooth animations
