@@ -42,7 +42,7 @@ The application features a centered card-based design with:
 - **QR code display** with smooth fade-in animation
 - **Auto-hide** functionality when input is cleared
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
