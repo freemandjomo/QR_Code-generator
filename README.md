@@ -23,7 +23,7 @@
 - ⚡ **Fast & Lightweight** - No dependencies, pure vanilla JavaScript
 - 🎭 **Interactive** - Dynamic animations and hover effects
 - 📱 **Responsive** - Works perfectly on all devices
-- 🔄 **Auto-Clear** - QR code disappears when input is cleared
+- 🔄 **Auto-Clear** - QR code disappears when input is cleared.
 
 ##  Use Cases
 
