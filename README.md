@@ -21,7 +21,7 @@
 - 🎨 **Modern UI** - Clean, responsive design with smooth animations
 - 📝 **Versatile Input** - Supports both URLs and plain text
 - ⚡ **Fast & Lightweight** - No dependencies, pure vanilla JavaScript
-- 🎭 **Interactive** - Dynamic animations and hover effects
+- 🎭 **Interactive** - Dynamic animations and hover effects.
 - 📱 **Responsive** - Works perfectly on all devices.
 - 🔄 **Auto-Clear** - QR code disappears when input is cleared.
 
