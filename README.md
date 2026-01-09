@@ -36,7 +36,7 @@
 
 ##  Preview
 
-The application features a centered card-based design with:
+The application features a centered card-based design with :
 - **Input field** for text/URL entry
 - **Generate button** with loading state
 - **QR code display** with smooth fade-in animation
